@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">OrientationChange</string>
+    <string name="inputText">Enter text here</string>
+    <string name="ok">OK</string>
+    <string name="outputHeader">Input Is: </string>
+</resources>
